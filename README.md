@@ -1,2 +1,3 @@
 # tp3
-for DTC 477 - tp3 recipe!
+
+This is the README file for the Tiny Project #3 that I'm working on. 
