@@ -1,17 +1,10 @@
-h1 {
-  font-family: Arial;
+#ingredients li { font-family: Combo; }
+
+p.smaller { font-size: 10px; }
+
+.bigger { 
+  font-size: 18px; 
+  font-style: italic; 
 }
 
-h4 {
-  margin-bottom: 0;
-}
-
-ul, ol {
-  margin-top: 0;
-}
-
-.copyright {
-  font-family: Arial;
-  font-size: 9px;
-  font-style: italic;
-}
+.makePurple { color: purple; }
