@@ -1,10 +1,17 @@
-#ingredients li { font-family: Combo; }
 
 p.smaller { font-size: 10px; }
 
 .bigger { 
-  font-size: 18px; 
-  font-style: italic; 
+  font-size: 18px;  
 }
 
-.makePurple { color: purple; }
+#equipment li {font-size:18px;}
+
+#directions li {font-size: 18px}
+
+#directions {font-size: 20px;}
+#equipment {font-size: 20px;}
+#ingredients {font-size: 20px; font-weight: bold;}
+
+.big {font-size: 18px; color:red;}
+
