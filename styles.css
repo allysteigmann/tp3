@@ -1,3 +1,4 @@
+#Title {font-size: 50px; color: red; font-family: 'Courgette', cursive;}
 
 p.smaller { font-size: 10px; }
 
@@ -13,5 +14,5 @@ p.smaller { font-size: 10px; }
 #equipment {font-size: 20px;}
 #ingredients {font-size: 20px; font-weight: bold;}
 
-.big {font-size: 18px; color:red;}
+.big {font-size: 18px; color: red;}
 
